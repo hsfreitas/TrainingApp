@@ -10,7 +10,7 @@ import java.util.TimeZone;
  * Created by hsfreitas on 2015-07-06.
  */
 
-
+//Testing git on Android Studio
 public class Current {
 
     private  String mIcon;
