@@ -12,7 +12,7 @@ import com.example.hsfreitas.stormy.R;
 import com.example.hsfreitas.stormy.weather.Day;
 
 /**
- * Created by hsfreitas on 2015-07-21.
+ * Created by hsfreitas on 2015-07-21 - Test Git added.
  */
 public class DayAdapter extends BaseAdapter {
     private Context mContext;
